@@ -1,0 +1,20 @@
+.home {
+    display : flex;
+}
+
+.player-data {
+    width: 70%;
+    background-color:aliceblue;
+    margin-left: 10px;
+}
+
+.cart {
+    padding: 10px;
+    background-color:aquamarine;
+    width: 30%;
+    text-align: center;
+}
+
+.player {
+    width: 100%;
+}
